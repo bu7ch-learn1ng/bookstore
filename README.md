@@ -38,4 +38,3 @@ npm test
 ## Auteurs
 
 * **Rodolphe D.** - *Lead Formateur* - [Simplon.co](https://simplon.co)
-
